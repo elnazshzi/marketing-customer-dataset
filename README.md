@@ -1,5 +1,7 @@
 # 📊 Customer Marketing Analysis Project
 
+<img width="1294" alt="Screenshot 2024-10-08 at 00 08 42" src="https://github.com/user-attachments/assets/a248ff9c-f97f-4780-a7e2-99bcdf539cb6">
+
 ## 📈 Project Overview
 
 This repository contains a comprehensive analysis of customer marketing data aimed at enhancing targeted marketing strategies and improving customer insights. The project involves the following key components:
